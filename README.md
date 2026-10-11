@@ -7,11 +7,13 @@ Holding Flow puts the whole business on one canvas: holdings and companies, busi
 All data stays on your own computer: no account, no cloud.
 
 - **Map** — cards and links, ownership shares between companies, responsible people next to every card
+- **Dashboards** — several named areas on one map (for example the company network, people, money flows), quick navigation in the left panel, hide any of them from the map
+- **Links from any side** — drag a link from the left, right, top or bottom of a card; each dashboard runs horizontally or vertically
 - **Layers and branches** — show only companies, hide people, or star a branch and work with just that part
 - **Hierarchy** — structure by level, who is responsible for what, and a staff chart you can edit by drag and drop
 - **Registry** — every object and person in a list, with monthly income, deadlines and gaps
 - **Your own categories** — sections, colours and icons; compact cards for sales channels
-- **Editing** — snap to grid with alignment guides or free movement, groups, copy and paste, undo
+- **Editing** — snap to grid with alignment guides or free movement, equal spacing in one click, groups, copy and paste, undo
 - **Deadlines** — domain renewals, reporting, payments, with reminders in the app and in Telegram
 - **PDF and JSON** — export the map, hierarchies and registries; full backup and import
 - **Languages:** English · Українська · Русский · **Themes:** dark and light, five accent colours
@@ -41,11 +43,11 @@ This is an early public version — it is free and will keep getting updates.
 
 ## Коротко по-русски
 
-Holding Flow — бесплатная карта бизнеса: компании, направления, источники дохода, команды, инфраструктура и люди — кто где и за что отвечает. Все данные хранятся только на вашем компьютере. Скачать последнюю версию: **[Releases](../../releases/latest)**. Подробное руководство на русском, украинском и английском — в приложении: Настройки → О программе → «Открыть руководство».
+Holding Flow — бесплатная карта бизнеса: компании, направления, источники дохода, команды, инфраструктура и люди — кто где и за что отвечает. Карту можно разделить на дашборды: сеть компаний, люди, финансовые потоки. Все данные хранятся только на вашем компьютере. Скачать последнюю версию: **[Releases](../../releases/latest)**. Подробное руководство на русском, украинском и английском — в приложении: Настройки → О программе → «Открыть руководство».
 
 ## Коротко українською
 
-Holding Flow — безкоштовна мапа бізнесу: компанії, напрями, джерела доходу, команди, інфраструктура та люди — хто де і за що відповідає. Усі дані зберігаються лише на вашому компʼютері. Завантажити останню версію: **[Releases](../../releases/latest)**. Докладний посібник українською, російською та англійською — у програмі: Налаштування → Про програму → «Відкрити посібник».
+Holding Flow — безкоштовна мапа бізнесу: компанії, напрями, джерела доходу, команди, інфраструктура та люди — хто де і за що відповідає. Мапу можна поділити на дашборди: мережа компаній, люди, фінансові потоки. Усі дані зберігаються лише на вашому компʼютері. Завантажити останню версію: **[Releases](../../releases/latest)**. Докладний посібник українською, російською та англійською — у програмі: Налаштування → Про програму → «Відкрити посібник».
 
 ---
 
