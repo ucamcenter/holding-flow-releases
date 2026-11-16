@@ -1,68 +1,92 @@
+<div align="center">
+
+<img src="assets/icon.png" width="120" alt="Holding Flow">
+
 # Holding Flow
 
-**A map of your business: who is where and responsible for what.** Free desktop app for Windows and macOS.
+**A map of your business: who is where and responsible for what.**<br>
+Free desktop app for macOS and Windows. Your data never leaves your computer.
+
+<a href="https://github.com/ucamcenter/holding-flow-releases/releases/latest"><img src="https://img.shields.io/github/v/release/ucamcenter/holding-flow-releases?style=for-the-badge&label=version&color=0A84FF" alt="version"></a> <a href="https://github.com/ucamcenter/holding-flow-releases/releases"><img src="https://img.shields.io/github/downloads/ucamcenter/holding-flow-releases/total?style=for-the-badge&label=downloads&color=30D158" alt="downloads"></a> <a href="https://github.com/ucamcenter/holding-flow-releases/stargazers"><img src="https://img.shields.io/github/stars/ucamcenter/holding-flow-releases?style=for-the-badge&label=stars&color=FFD60A&logo=github" alt="stars"></a> <img src="https://hits.sh/github.com/ucamcenter/holding-flow-releases.svg?style=for-the-badge&label=views&color=BF5AF2" alt="views"> <a href="https://github.com/ucamcenter/holding-flow-releases/watchers"><img src="https://img.shields.io/github/watchers/ucamcenter/holding-flow-releases?style=for-the-badge&label=watching&color=FF9F0A" alt="watching"></a>
+
+<img src="https://img.shields.io/badge/macOS%20%7C%20Windows-1D1D1F?style=flat-square" alt="macOS | Windows"> <img src="https://img.shields.io/badge/price-free-30D158?style=flat-square" alt="free"> <img src="https://img.shields.io/badge/languages-5-0A84FF?style=flat-square" alt="languages">
+
+<br>
+
+<a href="https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.1.0/HoldingFlow-1.1.0-mac.dmg"><img src="https://img.shields.io/badge/Download%20for%20macOS-1.1.0-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download for macOS" height="36"></a>&nbsp;<a href="https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.1.0/HoldingFlow-1.1.0-windows-setup.exe"><img src="https://img.shields.io/badge/Download%20for%20Windows-1.1.0-0078D4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDNoOC41djguNUgzek0xMi41IDNIMjF2OC41aC04LjV6TTMgMTIuNWg4LjVWMjFIM3pNMTIuNSAxMi41SDIxVjIxaC04LjV6Ii8+PC9zdmc+" alt="Download for Windows" height="36"></a>
+
+<sub><a href="https://github.com/ucamcenter/holding-flow-releases/releases">All versions and release notes</a></sub>
+
+<br>
+
+<b>English</b> · <a href="README.es.md">Español</a> · <a href="README.ro.md">Română</a> · <a href="README.ru.md">Русский</a>
+
+</div>
+
+<br>
+
+<p align="center"><img src="screenshots/map.png" alt="The map with dashboards, responsible people and money flow"></p>
+<p align="center"><sub>The map with dashboards, responsible people and money flow</sub></p>
 
 Holding Flow puts the whole business on one canvas: holdings and companies, business lines and products, income sources and sales channels, teams, departments, websites and channels — and the people responsible for each of them. Built for owners of small and mid-sized businesses who keep the structure in their heads and want to finally see it.
 
-All data stays on your own computer: no account, no cloud.
+## ✨ What’s new in 1.1.0
 
-- **Map** — cards and links, ownership shares between companies, responsible people next to every card
-- **Dashboards** — several named areas on one map (for example the company network, people, money flows), quick navigation in the left panel, hide any of them from the map
-- **Departments and your own lists** — create departments (or any list you need: offices, regions, shifts), assign people and attach them to projects; they show up on the map, in the hierarchy, the registry, search, PDF and messages
-- **Links from any side** — drag a link from the left, right, top or bottom of a card; each dashboard runs horizontally or vertically
-- **Layers and branches** — show only companies, hide people, or star a branch and work with just that part
-- **Hierarchy** — structure by level, who is responsible for what, a staff chart you can edit by drag and drop, and a view by department
-- **Registry** — every object and person in a list, with monthly income, deadlines and gaps; filter by department
-- **Currencies** — 25 popular currencies of Europe and the US as main and extra ones; exchange rates update daily for any pair, and totals are converted into your main currency
-- **Your own categories** — sections, colours and icons; compact cards for sales channels
-- **Editing** — snap to grid with alignment guides or free movement, equal spacing in one click, groups, copy and paste, undo
-- **Deadlines** — domain renewals, reporting, payments, with reminders in the app and in Telegram
-- **PDF and JSON** — export the map, hierarchies and registries; full backup and import
-- **Languages:** English · Español · Română · Русский · Українська · **Themes:** dark and light, five accent colours
+- **Presentation mode** — A full-screen tour of your map for partners, investors or the team: the whole map, every dashboard and its main branches, with smooth zoom, autoplay and arrow keys. Press <kbd>P</kbd>.
+- **Business check-up** — A score out of 100 and a list of risks: cards with no one responsible, key people, overdue deadlines, dependence on one income source, departments without people or a head. Press <kbd>C</kbd>.
+- **“If this person leaves”** — Every person’s card shows what would be left with no one in charge and how much monthly income is at risk.
+- **Money flow** — Income runs along the links on the map — faster where there is more money.
 
-## Download
+## 🧩 Features
 
-Get the latest version on the **[Releases](../../releases/latest)** page:
+<table>
+<tr><td width="33%" valign="top">🗺️ <b>Map</b><br><sub>Cards and links, ownership shares between companies, responsible people next to every card</sub></td><td width="33%" valign="top">🧭 <b>Dashboards</b><br><sub>Several named areas on one map — the company network, people, money flows</sub></td><td width="33%" valign="top">🏢 <b>Departments and your own lists</b><br><sub>Assign people, attach departments to projects; offices, regions, shifts — any list you need</sub></td></tr>
+<tr><td width="33%" valign="top">🌳 <b>Hierarchy</b><br><sub>Structure, responsibility, an editable staff chart and a view by department</sub></td><td width="33%" valign="top">📋 <b>Registry</b><br><sub>Every object and person in a list, with monthly income, deadlines and gaps</sub></td><td width="33%" valign="top">💱 <b>25 currencies</b><br><sub>Daily exchange rates for any pair; totals converted into your main currency</sub></td></tr>
+<tr><td width="33%" valign="top">⏰ <b>Deadlines</b><br><sub>Domain renewals, reports, payments — reminders in the app and in Telegram</sub></td><td width="33%" valign="top">📄 <b>PDF and JSON</b><br><sub>Export the map, hierarchies and registries; full backup and import</sub></td><td width="33%" valign="top">🌍 <b>5 languages</b><br><sub>English · Español · Română · Русский · Українська; dark and light themes</sub></td></tr>
+</table>
+
+## 🖼️ Screenshots
+
+<table>
+<tr><td width="50%" valign="top"><img src="screenshots/presentation.png" alt="Presentation mode"><p align="center"><sub><b>Presentation mode</b></sub></p></td><td width="50%" valign="top"><img src="screenshots/checkup.png" alt="Business check-up"><p align="center"><sub><b>Business check-up</b></sub></p></td></tr>
+<tr><td width="50%" valign="top"><img src="screenshots/if-leaves.png" alt="If this person leaves"><p align="center"><sub><b>If this person leaves</b></sub></p></td><td width="50%" valign="top"><img src="screenshots/hierarchy.png" alt="Staff hierarchy"><p align="center"><sub><b>Staff hierarchy</b></sub></p></td></tr>
+</table>
+
+<p align="center"><img src="screenshots/registry.png" alt="Registry" width="80%"><br><sub><b>Registry</b></sub></p>
+
+## ⬇️ Download and install
 
 | System | File |
 |---|---|
-| macOS (Apple Silicon & Intel) | `HoldingFlow-<version>-mac.dmg` |
-| Windows 10/11 (64-bit) | `HoldingFlow-<version>-windows-setup.exe` |
+| macOS (Apple Silicon & Intel) | [`HoldingFlow-1.1.0-mac.dmg`](https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.1.0/HoldingFlow-1.1.0-mac.dmg) |
+| Windows 10/11 (64-bit) | [`HoldingFlow-1.1.0-windows-setup.exe`](https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.1.0/HoldingFlow-1.1.0-windows-setup.exe) |
 
 ### First launch
 
-The installers are not yet signed with paid Apple/Microsoft certificates, so the system asks once for permission:
+The installers are not signed with paid Apple/Microsoft certificates yet, so the system asks for permission once:
 
-- **macOS:** right-click the app → **Open** → **Open**. Or System Settings → Privacy & Security → **Open Anyway**.
-  Or run in Terminal: `xattr -dr com.apple.quarantine "/Applications/Holding Flow.app"`
-- **Windows:** in the "Windows protected your PC" window click **More info → Run anyway**.
+- **macOS:** right-click the app → **Open** → **Open**. Or System Settings → Privacy & Security → **Open Anyway**. Or run in Terminal:
+  ```bash
+  xattr -dr com.apple.quarantine "/Applications/Holding Flow.app"
+  ```
+- **Windows:** in the “Windows protected your PC” window click **More info → Run anyway**.
 
-The map starts empty: create the first object with the buttons in the middle of the screen, or press `/`. The full user guide in all five languages is in the app: Settings → About → **Open guide**. The app checks for new versions there too.
+The map starts empty: create the first object with the buttons in the middle of the screen, or press <kbd>/</kbd>. The full user guide is inside the app: Settings → About → **Open guide**. The app checks for new versions there too.
+
+## 🔒 Privacy
+
+No account, no cloud, no tracking. Everything you put on the map is stored only on your computer. The internet is used only for exchange rates and the update check.
+
+## 💬 Contacts
+
+<p><a href="https://ucam-center.com/programs/"><img src="https://img.shields.io/badge/Website-ucam--center.com-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a> <a href="mailto:ucamcenter@gmail.com"><img src="https://img.shields.io/badge/Email-ucamcenter%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.behance.net/ucamcenter"><img src="https://img.shields.io/badge/Behance-ucamcenter-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a> <a href="https://github.com/ucamcenter"><img src="https://img.shields.io/badge/GitHub-ucamcenter-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></p>
+
+---
+
+<div align="center">
 
 Holding Flow is free and keeps getting updates.
 
-## Contacts
+<sub>Powered by <a href="https://ucam-center.com/programs/"><b>UCAM CENTER</b></a></sub>
 
-[Email](mailto:ucamcenter@gmail.com) · [GitHub](https://github.com/ucamcenter) · [Behance](https://www.behance.net/ucamcenter)
-
----
-
-## En español
-
-Holding Flow es un mapa gratuito de tu negocio: empresas, líneas de negocio, fuentes de ingresos, equipos, departamentos, infraestructura y personas — quién está dónde y de qué se encarga. Departamentos y listas propias, 25 monedas con tipos de cambio diarios. Todos los datos se guardan solo en tu ordenador. Descarga la última versión: **[Releases](../../releases/latest)**. La guía completa está en la app: Ajustes → Acerca de → «Abrir la guía».
-
-## Pe scurt în română
-
-Holding Flow este o hartă gratuită a afacerii tale: companii, direcții, surse de venit, echipe, departamente, infrastructură și oameni — cine unde este și de ce răspunde. Departamente și liste proprii, 25 de valute cu cursuri actualizate zilnic. Toate datele rămân doar pe calculatorul tău. Descarcă ultima versiune: **[Releases](../../releases/latest)**. Ghidul complet este în aplicație: Setări → Despre → „Deschide ghidul”.
-
-## Коротко по-русски
-
-Holding Flow — бесплатная карта бизнеса: компании, направления, источники дохода, команды, отделы, инфраструктура и люди — кто где и за что отвечает. Отделы и собственные списки, 25 валют с ежедневными курсами. Все данные хранятся только на вашем компьютере. Скачать последнюю версию: **[Releases](../../releases/latest)**. Подробное руководство на пяти языках — в приложении: Настройки → О программе → «Открыть руководство».
-
-## Коротко українською
-
-Holding Flow — безкоштовна мапа бізнесу: компанії, напрями, джерела доходу, команди, відділи, інфраструктура та люди — хто де і за що відповідає. Відділи та власні списки, 25 валют зі щоденними курсами. Усі дані зберігаються лише на вашому компʼютері. Завантажити останню версію: **[Releases](../../releases/latest)**. Докладний посібник пʼятьма мовами — у програмі: Налаштування → Про програму → «Відкрити посібник».
-
----
-
-<sub>Powered by **UCAM CENTER**</sub>
+</div>
