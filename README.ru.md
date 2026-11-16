@@ -79,7 +79,7 @@ Holding Flow собирает весь бизнес на одном холсте
 
 ## 💬 Контакты
 
-<p><a href="https://ucam-center.com/ru/programs/"><img src="https://img.shields.io/badge/%D0%A1%D0%B0%D0%B9%D1%82-ucam--center.com-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Сайт"></a> <a href="mailto:ucamcenter@gmail.com"><img src="https://img.shields.io/badge/%D0%9F%D0%BE%D1%87%D1%82%D0%B0-ucamcenter%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Почта"></a> <a href="https://www.behance.net/ucamcenter"><img src="https://img.shields.io/badge/Behance-ucamcenter-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a> <a href="https://github.com/ucamcenter"><img src="https://img.shields.io/badge/GitHub-ucamcenter-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></p>
+<p><a href="https://ucam-center.com/ru/programs/"><img src="https://img.shields.io/badge/%D0%A1%D0%B0%D0%B9%D1%82-ucam--center.com-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Сайт"></a> <a href="mailto:support@ucam-center.com"><img src="https://img.shields.io/badge/%D0%9F%D0%BE%D1%87%D1%82%D0%B0-support%40ucam--center.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Почта"></a> <a href="https://www.behance.net/ucamcenter"><img src="https://img.shields.io/badge/Behance-ucamcenter-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a> <a href="https://github.com/ucamcenter"><img src="https://img.shields.io/badge/GitHub-ucamcenter-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></p>
 
 ---
 

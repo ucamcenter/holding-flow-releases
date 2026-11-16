@@ -79,7 +79,7 @@ Fără cont, fără cloud, fără urmărire. Tot ce pui pe hartă se păstrează
 
 ## 💬 Contacte
 
-<p><a href="https://ucam-center.com/ro/programs/"><img src="https://img.shields.io/badge/Site%20web-ucam--center.com-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site web"></a> <a href="mailto:ucamcenter@gmail.com"><img src="https://img.shields.io/badge/Email-ucamcenter%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.behance.net/ucamcenter"><img src="https://img.shields.io/badge/Behance-ucamcenter-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a> <a href="https://github.com/ucamcenter"><img src="https://img.shields.io/badge/GitHub-ucamcenter-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></p>
+<p><a href="https://ucam-center.com/ro/programs/"><img src="https://img.shields.io/badge/Site%20web-ucam--center.com-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site web"></a> <a href="mailto:support@ucam-center.com"><img src="https://img.shields.io/badge/Email-support%40ucam--center.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.behance.net/ucamcenter"><img src="https://img.shields.io/badge/Behance-ucamcenter-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a> <a href="https://github.com/ucamcenter"><img src="https://img.shields.io/badge/GitHub-ucamcenter-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></p>
 
 ---
 
