@@ -13,7 +13,7 @@ Aplicație desktop gratuită pentru macOS și Windows. Datele tale nu părăsesc
 
 <br>
 
-<a href="https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.1.0/HoldingFlow-1.1.0-mac.dmg"><img src="https://img.shields.io/badge/Descarc%C4%83%20pentru%20macOS-1.1.0-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Descarcă pentru macOS" height="36"></a>&nbsp;<a href="https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.1.0/HoldingFlow-1.1.0-windows-setup.exe"><img src="https://img.shields.io/badge/Descarc%C4%83%20pentru%20Windows-1.1.0-0078D4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDNoOC41djguNUgzek0xMi41IDNIMjF2OC41aC04LjV6TTMgMTIuNWg4LjVWMjFIM3pNMTIuNSAxMi41SDIxVjIxaC04LjV6Ii8+PC9zdmc+" alt="Descarcă pentru Windows" height="36"></a>
+<a href="https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.2.0/HoldingFlow-1.2.0-mac.dmg"><img src="https://img.shields.io/badge/Descarc%C4%83%20pentru%20macOS-1.2.0-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Descarcă pentru macOS" height="36"></a>&nbsp;<a href="https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.2.0/HoldingFlow-1.2.0-windows-setup.exe"><img src="https://img.shields.io/badge/Descarc%C4%83%20pentru%20Windows-1.2.0-0078D4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDNoOC41djguNUgzek0xMi41IDNIMjF2OC41aC04LjV6TTMgMTIuNWg4LjVWMjFIM3pNMTIuNSAxMi41SDIxVjIxaC04LjV6Ii8+PC9zdmc+" alt="Descarcă pentru Windows" height="36"></a>
 
 <sub><a href="https://github.com/ucamcenter/holding-flow-releases/releases">Toate versiunile și notele de lansare</a></sub>
 
@@ -25,41 +25,44 @@ Aplicație desktop gratuită pentru macOS și Windows. Datele tale nu părăsesc
 
 <br>
 
-<p align="center"><img src="screenshots/map.png" alt="Harta cu tablouri de bord, responsabili și fluxul de bani"></p>
-<p align="center"><sub>Harta cu tablouri de bord, responsabili și fluxul de bani</sub></p>
+<p align="center"><img src="screenshots/map.png" alt="Harta structurii: tablouri de bord, responsabili, relații, fluxul de bani și miniharta"></p>
+<p align="center"><sub>Harta structurii: tablouri de bord, responsabili, relații, fluxul de bani și miniharta</sub></p>
 
 Holding Flow adună toată afacerea pe o singură pânză: holdinguri și companii, direcții și produse, surse de venit și canale de vânzare, echipe, departamente, site-uri și canale — și oamenii responsabili de fiecare. Gândită pentru proprietarii de afaceri mici și mijlocii care țin structura în cap și vor, în sfârșit, s-o vadă.
 
-## ✨ Ce e nou în 1.1.0
+## ✨ Ce e nou în 1.2.0
 
-- **Modul prezentare** — Un tur pe tot ecranul prin hartă pentru parteneri, investitori sau echipă: toată harta, fiecare tablou de bord și ramurile lui principale, cu zoom lin, redare automată și săgeți. Apasă <kbd>P</kbd>.
-- **Verificarea afacerii** — O notă din 100 și o listă de riscuri: carduri fără responsabil, oameni-cheie, termene depășite, dependența de o singură sursă de venit, departamente fără oameni sau fără șef. Apasă <kbd>C</kbd>.
-- **„Dacă această persoană pleacă”** — Fișa fiecărei persoane arată ce ar rămâne fără responsabil și cât venit lunar e în pericol.
-- **Fluxul de bani** — Venitul curge pe legăturile hărții — mai repede acolo unde sunt mai mulți bani.
+- **Restrângerea ramurilor** — „−” pe un card ascunde tot ce e dedesubt și arată câte carduri, persoane și cât venit sunt înăuntru. <kbd>E</kbd> — o ramură, <kbd>⇧E</kbd> — toată harta.
+- **Se citește de departe** — La micșorare, cardurile devin plăci mari cu nume; miniharta arată unde te afli.
+- **Relații** — Administrează, se subordonează, contract, servicii, împrumut și textul tău — în afara structurii, chiar și în cerc.
+- **Linii în unghi drept** — Legăturile ocolesc cardurile în loc să le traverseze (curbele sunt la un clic).
+- **Istoricul hărții** — Copii zilnice și de siguranță: „cum era”, „ce s-a schimbat”, restaurare. Apasă <kbd>T</kbd>.
+- **Departamente pe hartă** — Un departament și cardul lui sunt acum același lucru, cu aceiași oameni și același șef.
+- **Telegram automat** — Memento-urile de termene și rezumatul săptămânal se trimit cât timp aplicația e deschisă.
 
 ## 🧩 Funcții
 
 <table>
-<tr><td width="33%" valign="top">🗺️ <b>Hartă</b><br><sub>Carduri și legături, cote de participație între companii, responsabili lângă fiecare card</sub></td><td width="33%" valign="top">🧭 <b>Tablouri de bord</b><br><sub>Mai multe zone cu nume pe aceeași hartă: rețeaua de companii, oameni, fluxuri de bani</sub></td><td width="33%" valign="top">🏢 <b>Departamente și liste proprii</b><br><sub>Adaugă oameni, atașează departamente la proiecte; birouri, regiuni, ture — orice listă</sub></td></tr>
-<tr><td width="33%" valign="top">🌳 <b>Ierarhie</b><br><sub>Structură, responsabilitate, organigramă editabilă și vedere pe departamente</sub></td><td width="33%" valign="top">📋 <b>Registru</b><br><sub>Toate obiectele și persoanele într-o listă, cu venit lunar, termene și goluri</sub></td><td width="33%" valign="top">💱 <b>25 de valute</b><br><sub>Cursuri zilnice pentru orice pereche; totaluri în moneda ta principală</sub></td></tr>
-<tr><td width="33%" valign="top">⏰ <b>Termene</b><br><sub>Reînnoirea domeniilor, rapoarte, plăți — memento-uri în aplicație și în Telegram</sub></td><td width="33%" valign="top">📄 <b>PDF și JSON</b><br><sub>Exportă harta, ierarhiile și registrele; copie completă și import</sub></td><td width="33%" valign="top">🌍 <b>5 limbi</b><br><sub>English · Español · Română · Русский · Українська; teme întunecată și luminoasă</sub></td></tr>
+<tr><td width="33%" valign="top">🗺️ <b>Hartă</b><br><sub>Carduri și legături, cote de participație, ramuri care se restrâng, minihartă și responsabili lângă fiecare card</sub></td><td width="33%" valign="top">🔗 <b>Relații</b><br><sub>Contracte, servicii, împrumuturi și administrare peste structură, fiecare tip cu stilul lui</sub></td><td width="33%" valign="top">🕰️ <b>Istoricul hărții</b><br><sub>Copii zilnice, comparație cu ziua de azi, restaurare cu un clic</sub></td></tr>
+<tr><td width="33%" valign="top">🧭 <b>Tablouri de bord</b><br><sub>Mai multe zone cu nume pe aceeași hartă: rețeaua de companii, oameni, fluxuri de bani</sub></td><td width="33%" valign="top">🏢 <b>Departamente și liste proprii</b><br><sub>Adaugă oameni, atașează departamente la proiecte; birouri, regiuni, ture — orice listă</sub></td><td width="33%" valign="top">🌳 <b>Ierarhie</b><br><sub>Structură, responsabilitate, organigramă editabilă și vedere pe departamente</sub></td></tr>
+<tr><td width="33%" valign="top">📋 <b>Registru</b><br><sub>Toate obiectele și persoanele într-o listă, cu venit lunar, termene și goluri</sub></td><td width="33%" valign="top">💱 <b>25 de valute</b><br><sub>Cursuri zilnice pentru orice pereche; totaluri în moneda ta principală</sub></td><td width="33%" valign="top">⏰ <b>Termene</b><br><sub>Reînnoirea domeniilor, rapoarte, plăți — memento-uri în aplicație și în Telegram</sub></td></tr>
+<tr><td width="33%" valign="top">📄 <b>PDF și JSON</b><br><sub>Exportă harta, ierarhiile și registrele; copie completă și import</sub></td><td width="33%" valign="top">🌍 <b>5 limbi</b><br><sub>English · Español · Română · Русский · Українська; teme întunecată și luminoasă</sub></td></tr>
 </table>
 
 ## 🖼️ Capturi de ecran
 
 <table>
-<tr><td width="50%" valign="top"><img src="screenshots/presentation.png" alt="Modul prezentare"><p align="center"><sub><b>Modul prezentare</b></sub></p></td><td width="50%" valign="top"><img src="screenshots/checkup.png" alt="Verificarea afacerii"><p align="center"><sub><b>Verificarea afacerii</b></sub></p></td></tr>
-<tr><td width="50%" valign="top"><img src="screenshots/if-leaves.png" alt="Dacă această persoană pleacă"><p align="center"><sub><b>Dacă această persoană pleacă</b></sub></p></td><td width="50%" valign="top"><img src="screenshots/hierarchy.png" alt="Ierarhia personalului"><p align="center"><sub><b>Ierarhia personalului</b></sub></p></td></tr>
+<tr><td width="50%" valign="top"><img src="screenshots/collapsed.png" alt="Ramuri restrânse: conținutul rămâne vizibil"><p align="center"><sub><b>Ramuri restrânse: conținutul rămâne vizibil</b></sub></p></td><td width="50%" valign="top"><img src="screenshots/relations.png" alt="Relații: contract, servicii, împrumut…"><p align="center"><sub><b>Relații: contract, servicii, împrumut…</b></sub></p></td></tr>
+<tr><td width="50%" valign="top"><img src="screenshots/history.png" alt="Istoricul hărții: ce s-a schimbat"><p align="center"><sub><b>Istoricul hărții: ce s-a schimbat</b></sub></p></td><td width="50%" valign="top"><img src="screenshots/presentation.png" alt="Modul prezentare"><p align="center"><sub><b>Modul prezentare</b></sub></p></td></tr>
+<tr><td width="50%" valign="top"><img src="screenshots/checkup.png" alt="Verificarea afacerii"><p align="center"><sub><b>Verificarea afacerii</b></sub></p></td><td width="50%" valign="top"><img src="screenshots/hierarchy.png" alt="Ierarhia personalului"><p align="center"><sub><b>Ierarhia personalului</b></sub></p></td></tr>
 </table>
-
-<p align="center"><img src="screenshots/registry.png" alt="Registru" width="80%"><br><sub><b>Registru</b></sub></p>
 
 ## ⬇️ Descărcare și instalare
 
 | Sistem | Fișier |
 |---|---|
-| macOS (Apple Silicon și Intel) | [`HoldingFlow-1.1.0-mac.dmg`](https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.1.0/HoldingFlow-1.1.0-mac.dmg) |
-| Windows 10/11 (64 de biți) | [`HoldingFlow-1.1.0-windows-setup.exe`](https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.1.0/HoldingFlow-1.1.0-windows-setup.exe) |
+| macOS (Apple Silicon și Intel) | [`HoldingFlow-1.2.0-mac.dmg`](https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.2.0/HoldingFlow-1.2.0-mac.dmg) |
+| Windows 10/11 (64 de biți) | [`HoldingFlow-1.2.0-windows-setup.exe`](https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.2.0/HoldingFlow-1.2.0-windows-setup.exe) |
 
 ### Prima pornire
 
@@ -79,7 +82,7 @@ Fără cont, fără cloud, fără urmărire. Tot ce pui pe hartă se păstrează
 
 ## 💬 Contacte
 
-<p><a href="https://ucam-center.com/ro/programs/"><img src="https://img.shields.io/badge/Site%20web-ucam--center.com-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site web"></a> <a href="mailto:support@ucam-center.com"><img src="https://img.shields.io/badge/Email-support%40ucam--center.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.behance.net/ucamcenter"><img src="https://img.shields.io/badge/Behance-ucamcenter-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a> <a href="https://github.com/ucamcenter"><img src="https://img.shields.io/badge/GitHub-ucamcenter-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></p>
+<p><a href="https://ucam-center.com/ro/programs/"><img src="https://img.shields.io/badge/Site%20web-ucam--center.com-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site web"></a> <a href="mailto:support@ucam-center.com"><img src="https://img.shields.io/badge/Email-support%40ucam--center.com-EA4335?style=for-the-badge" alt="Email"></a> <a href="https://www.behance.net/ucamcenter"><img src="https://img.shields.io/badge/Behance-ucamcenter-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a> <a href="https://github.com/ucamcenter"><img src="https://img.shields.io/badge/GitHub-ucamcenter-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></p>
 
 ---
 

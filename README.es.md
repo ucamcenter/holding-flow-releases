@@ -13,7 +13,7 @@ App de escritorio gratuita para macOS y Windows. Tus datos nunca salen de tu ord
 
 <br>
 
-<a href="https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.1.0/HoldingFlow-1.1.0-mac.dmg"><img src="https://img.shields.io/badge/Descargar%20para%20macOS-1.1.0-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Descargar para macOS" height="36"></a>&nbsp;<a href="https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.1.0/HoldingFlow-1.1.0-windows-setup.exe"><img src="https://img.shields.io/badge/Descargar%20para%20Windows-1.1.0-0078D4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDNoOC41djguNUgzek0xMi41IDNIMjF2OC41aC04LjV6TTMgMTIuNWg4LjVWMjFIM3pNMTIuNSAxMi41SDIxVjIxaC04LjV6Ii8+PC9zdmc+" alt="Descargar para Windows" height="36"></a>
+<a href="https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.2.0/HoldingFlow-1.2.0-mac.dmg"><img src="https://img.shields.io/badge/Descargar%20para%20macOS-1.2.0-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Descargar para macOS" height="36"></a>&nbsp;<a href="https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.2.0/HoldingFlow-1.2.0-windows-setup.exe"><img src="https://img.shields.io/badge/Descargar%20para%20Windows-1.2.0-0078D4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDNoOC41djguNUgzek0xMi41IDNIMjF2OC41aC04LjV6TTMgMTIuNWg4LjVWMjFIM3pNMTIuNSAxMi41SDIxVjIxaC04LjV6Ii8+PC9zdmc+" alt="Descargar para Windows" height="36"></a>
 
 <sub><a href="https://github.com/ucamcenter/holding-flow-releases/releases">Todas las versiones y notas</a></sub>
 
@@ -25,41 +25,44 @@ App de escritorio gratuita para macOS y Windows. Tus datos nunca salen de tu ord
 
 <br>
 
-<p align="center"><img src="screenshots/map.png" alt="El mapa con tableros, responsables y flujo de dinero"></p>
-<p align="center"><sub>El mapa con tableros, responsables y flujo de dinero</sub></p>
+<p align="center"><img src="screenshots/map.png" alt="El mapa de la estructura: tableros, responsables, relaciones, flujo de dinero y minimapa"></p>
+<p align="center"><sub>El mapa de la estructura: tableros, responsables, relaciones, flujo de dinero y minimapa</sub></p>
 
 Holding Flow reúne todo el negocio en un solo lienzo: holdings y empresas, líneas de negocio y productos, fuentes de ingresos y canales de venta, equipos, departamentos, sitios web y canales, y las personas responsables de cada uno. Pensado para dueños de pequeñas y medianas empresas que llevan la estructura en la cabeza y quieren por fin verla.
 
-## ✨ Novedades de la 1.1.0
+## ✨ Novedades de la 1.2.0
 
-- **Modo presentación** — Un recorrido a pantalla completa por tu mapa para socios, inversores o el equipo: todo el mapa, cada tablero y sus ramas principales, con zoom suave, reproducción automática y flechas. Pulsa <kbd>P</kbd>.
-- **Chequeo del negocio** — Una nota sobre 100 y una lista de riesgos: tarjetas sin responsable, personas clave, plazos vencidos, dependencia de una sola fuente de ingresos, departamentos sin personas o sin jefe. Pulsa <kbd>C</kbd>.
-- **«Si esta persona se va»** — La ficha de cada persona muestra qué quedaría sin responsable y cuántos ingresos mensuales están en riesgo.
-- **Flujo de dinero** — Los ingresos recorren los vínculos del mapa, más rápido donde hay más dinero.
+- **Contraer ramas** — «−» en una tarjeta oculta todo lo que hay debajo y muestra cuántas tarjetas, personas e ingresos contiene. <kbd>E</kbd>: una rama; <kbd>⇧E</kbd>: todo el mapa.
+- **Legible de lejos** — Al alejar, las tarjetas se convierten en placas grandes con el nombre; el minimapa muestra dónde estás.
+- **Relaciones** — Dirige, depende de, contrato, servicios, préstamo y tu propio texto: fuera de la estructura, incluso en círculo.
+- **Líneas en ángulo recto** — Los vínculos rodean las tarjetas en lugar de cruzarlas (las curvas están a un clic).
+- **Historial del mapa** — Copias diarias y de seguridad: «como era», «qué cambió», restaurar. Pulsa <kbd>T</kbd>.
+- **Departamentos en el mapa** — Un departamento y su tarjeta ahora son lo mismo, con las mismas personas y el mismo jefe.
+- **Telegram automático** — Los avisos de plazos y el resumen semanal se envían mientras la app está abierta.
 
 ## 🧩 Funciones
 
 <table>
-<tr><td width="33%" valign="top">🗺️ <b>Mapa</b><br><sub>Tarjetas y vínculos, participaciones entre empresas, responsables junto a cada tarjeta</sub></td><td width="33%" valign="top">🧭 <b>Tableros</b><br><sub>Varias zonas con nombre en un mismo mapa: red de empresas, personas, flujos de dinero</sub></td><td width="33%" valign="top">🏢 <b>Departamentos y listas propias</b><br><sub>Asigna personas, vincula departamentos a proyectos; oficinas, regiones, turnos: cualquier lista</sub></td></tr>
-<tr><td width="33%" valign="top">🌳 <b>Jerarquía</b><br><sub>Estructura, responsabilidad, organigrama editable y vista por departamentos</sub></td><td width="33%" valign="top">📋 <b>Registro</b><br><sub>Todos los objetos y personas en una lista, con ingresos mensuales, plazos y huecos</sub></td><td width="33%" valign="top">💱 <b>25 monedas</b><br><sub>Tipos de cambio diarios para cualquier par; totales en tu moneda principal</sub></td></tr>
-<tr><td width="33%" valign="top">⏰ <b>Plazos</b><br><sub>Renovación de dominios, informes, pagos: avisos en la app y en Telegram</sub></td><td width="33%" valign="top">📄 <b>PDF y JSON</b><br><sub>Exporta el mapa, las jerarquías y los registros; copia completa e importación</sub></td><td width="33%" valign="top">🌍 <b>5 idiomas</b><br><sub>English · Español · Română · Русский · Українська; temas oscuro y claro</sub></td></tr>
+<tr><td width="33%" valign="top">🗺️ <b>Mapa</b><br><sub>Tarjetas y vínculos, participaciones, ramas que se contraen, minimapa y responsables junto a cada tarjeta</sub></td><td width="33%" valign="top">🔗 <b>Relaciones</b><br><sub>Contratos, servicios, préstamos y gestión por encima de la estructura, cada tipo con su estilo</sub></td><td width="33%" valign="top">🕰️ <b>Historial del mapa</b><br><sub>Copias diarias, comparación con hoy y restauración en un clic</sub></td></tr>
+<tr><td width="33%" valign="top">🧭 <b>Tableros</b><br><sub>Varias zonas con nombre en un mismo mapa: red de empresas, personas, flujos de dinero</sub></td><td width="33%" valign="top">🏢 <b>Departamentos y listas propias</b><br><sub>Asigna personas, vincula departamentos a proyectos; oficinas, regiones, turnos: cualquier lista</sub></td><td width="33%" valign="top">🌳 <b>Jerarquía</b><br><sub>Estructura, responsabilidad, organigrama editable y vista por departamentos</sub></td></tr>
+<tr><td width="33%" valign="top">📋 <b>Registro</b><br><sub>Todos los objetos y personas en una lista, con ingresos mensuales, plazos y huecos</sub></td><td width="33%" valign="top">💱 <b>25 monedas</b><br><sub>Tipos de cambio diarios para cualquier par; totales en tu moneda principal</sub></td><td width="33%" valign="top">⏰ <b>Plazos</b><br><sub>Renovación de dominios, informes, pagos: avisos en la app y en Telegram</sub></td></tr>
+<tr><td width="33%" valign="top">📄 <b>PDF y JSON</b><br><sub>Exporta el mapa, las jerarquías y los registros; copia completa e importación</sub></td><td width="33%" valign="top">🌍 <b>5 idiomas</b><br><sub>English · Español · Română · Русский · Українська; temas oscuro y claro</sub></td></tr>
 </table>
 
 ## 🖼️ Capturas
 
 <table>
-<tr><td width="50%" valign="top"><img src="screenshots/presentation.png" alt="Modo presentación"><p align="center"><sub><b>Modo presentación</b></sub></p></td><td width="50%" valign="top"><img src="screenshots/checkup.png" alt="Chequeo del negocio"><p align="center"><sub><b>Chequeo del negocio</b></sub></p></td></tr>
-<tr><td width="50%" valign="top"><img src="screenshots/if-leaves.png" alt="Si esta persona se va"><p align="center"><sub><b>Si esta persona se va</b></sub></p></td><td width="50%" valign="top"><img src="screenshots/hierarchy.png" alt="Jerarquía del personal"><p align="center"><sub><b>Jerarquía del personal</b></sub></p></td></tr>
+<tr><td width="50%" valign="top"><img src="screenshots/collapsed.png" alt="Ramas contraídas: lo de dentro sigue a la vista"><p align="center"><sub><b>Ramas contraídas: lo de dentro sigue a la vista</b></sub></p></td><td width="50%" valign="top"><img src="screenshots/relations.png" alt="Relaciones: contrato, servicios, préstamo…"><p align="center"><sub><b>Relaciones: contrato, servicios, préstamo…</b></sub></p></td></tr>
+<tr><td width="50%" valign="top"><img src="screenshots/history.png" alt="Historial del mapa: qué cambió"><p align="center"><sub><b>Historial del mapa: qué cambió</b></sub></p></td><td width="50%" valign="top"><img src="screenshots/presentation.png" alt="Modo presentación"><p align="center"><sub><b>Modo presentación</b></sub></p></td></tr>
+<tr><td width="50%" valign="top"><img src="screenshots/checkup.png" alt="Chequeo del negocio"><p align="center"><sub><b>Chequeo del negocio</b></sub></p></td><td width="50%" valign="top"><img src="screenshots/hierarchy.png" alt="Jerarquía del personal"><p align="center"><sub><b>Jerarquía del personal</b></sub></p></td></tr>
 </table>
-
-<p align="center"><img src="screenshots/registry.png" alt="Registro" width="80%"><br><sub><b>Registro</b></sub></p>
 
 ## ⬇️ Descarga e instalación
 
 | Sistema | Archivo |
 |---|---|
-| macOS (Apple Silicon e Intel) | [`HoldingFlow-1.1.0-mac.dmg`](https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.1.0/HoldingFlow-1.1.0-mac.dmg) |
-| Windows 10/11 (64 bits) | [`HoldingFlow-1.1.0-windows-setup.exe`](https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.1.0/HoldingFlow-1.1.0-windows-setup.exe) |
+| macOS (Apple Silicon e Intel) | [`HoldingFlow-1.2.0-mac.dmg`](https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.2.0/HoldingFlow-1.2.0-mac.dmg) |
+| Windows 10/11 (64 bits) | [`HoldingFlow-1.2.0-windows-setup.exe`](https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.2.0/HoldingFlow-1.2.0-windows-setup.exe) |
 
 ### Primer inicio
 
@@ -79,7 +82,7 @@ Sin cuenta, sin nube, sin rastreo. Todo lo que pones en el mapa se guarda solo e
 
 ## 💬 Contacto
 
-<p><a href="https://ucam-center.com/es/programs/"><img src="https://img.shields.io/badge/Sitio%20web-ucam--center.com-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web"></a> <a href="mailto:support@ucam-center.com"><img src="https://img.shields.io/badge/Correo-support%40ucam--center.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"></a> <a href="https://www.behance.net/ucamcenter"><img src="https://img.shields.io/badge/Behance-ucamcenter-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a> <a href="https://github.com/ucamcenter"><img src="https://img.shields.io/badge/GitHub-ucamcenter-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></p>
+<p><a href="https://ucam-center.com/es/programs/"><img src="https://img.shields.io/badge/Sitio%20web-ucam--center.com-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web"></a> <a href="mailto:support@ucam-center.com"><img src="https://img.shields.io/badge/Correo-support%40ucam--center.com-EA4335?style=for-the-badge" alt="Correo"></a> <a href="https://www.behance.net/ucamcenter"><img src="https://img.shields.io/badge/Behance-ucamcenter-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a> <a href="https://github.com/ucamcenter"><img src="https://img.shields.io/badge/GitHub-ucamcenter-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></p>
 
 ---
 

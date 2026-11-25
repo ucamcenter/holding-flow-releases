@@ -13,7 +13,7 @@
 
 <br>
 
-<a href="https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.1.0/HoldingFlow-1.1.0-mac.dmg"><img src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20macOS-1.1.0-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Скачать для macOS" height="36"></a>&nbsp;<a href="https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.1.0/HoldingFlow-1.1.0-windows-setup.exe"><img src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20Windows-1.1.0-0078D4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDNoOC41djguNUgzek0xMi41IDNIMjF2OC41aC04LjV6TTMgMTIuNWg4LjVWMjFIM3pNMTIuNSAxMi41SDIxVjIxaC04LjV6Ii8+PC9zdmc+" alt="Скачать для Windows" height="36"></a>
+<a href="https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.2.0/HoldingFlow-1.2.0-mac.dmg"><img src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20macOS-1.2.0-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Скачать для macOS" height="36"></a>&nbsp;<a href="https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.2.0/HoldingFlow-1.2.0-windows-setup.exe"><img src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20Windows-1.2.0-0078D4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDNoOC41djguNUgzek0xMi41IDNIMjF2OC41aC04LjV6TTMgMTIuNWg4LjVWMjFIM3pNMTIuNSAxMi41SDIxVjIxaC04LjV6Ii8+PC9zdmc+" alt="Скачать для Windows" height="36"></a>
 
 <sub><a href="https://github.com/ucamcenter/holding-flow-releases/releases">Все версии и описания релизов</a></sub>
 
@@ -25,41 +25,44 @@
 
 <br>
 
-<p align="center"><img src="screenshots/map.png" alt="Карта с дашбордами, ответственными и денежным потоком"></p>
-<p align="center"><sub>Карта с дашбордами, ответственными и денежным потоком</sub></p>
+<p align="center"><img src="screenshots/map.png" alt="Карта структуры: дашборды, ответственные, связи, денежный поток и мини-карта"></p>
+<p align="center"><sub>Карта структуры: дашборды, ответственные, связи, денежный поток и мини-карта</sub></p>
 
 Holding Flow собирает весь бизнес на одном холсте: холдинги и компании, направления и продукты, источники дохода и каналы продаж, команды, отделы, сайты и каналы — и людей, которые за каждое из них отвечают. Для владельцев малого и среднего бизнеса, которые держат структуру в голове и хотят наконец её увидеть.
 
-## ✨ Что нового в 1.1.0
+## ✨ Что нового в 1.2.0
 
-- **Режим презентации** — Полноэкранный показ карты для партнёров, инвесторов или команды: вся карта, каждый дашборд и его главные ветки, с плавным приближением, автопоказом и стрелками. Клавиша <kbd>P</kbd>.
-- **Проверка бизнеса** — Оценка из 100 и список рисков: карточки без ответственного, ключевые люди, просроченные сроки, зависимость от одного источника дохода, отделы без людей или руководителя. Клавиша <kbd>C</kbd>.
-- **«Если человек уйдёт»** — В карточке каждого человека видно, что останется без ответственного и какой месячный доход под риском.
-- **Денежный поток** — Доход бежит по связям на карте — тем быстрее, чем больше денег.
+- **Сворачивание веток** — «−» на карточке прячет всё, что внутри, и показывает, сколько там карточек, людей и дохода. <kbd>E</kbd> — одна ветка, <kbd>⇧E</kbd> — вся карта.
+- **Читается издалека** — При отдалении карточки становятся крупными плашками с названием, а мини-карта показывает, где вы.
+- **Связи** — Управляет, подчиняется, договор, услуги, заём и своя подпись — вне структуры, можно по кругу.
+- **Прямые линии** — Связи обходят карточки, а не пересекают их (плавные — одним кликом).
+- **История карты** — Снимки по дням и страховочные копии: «как было», «что изменилось», восстановление. Клавиша <kbd>T</kbd>.
+- **Отделы на карте** — Отдел и его карточка теперь одно целое: те же люди и руководитель.
+- **Telegram сам** — Напоминания о сроках и недельная сводка уходят, пока программа открыта.
 
 ## 🧩 Возможности
 
 <table>
-<tr><td width="33%" valign="top">🗺️ <b>Карта</b><br><sub>Карточки и связи, доли владения между компаниями, ответственные рядом с каждой карточкой</sub></td><td width="33%" valign="top">🧭 <b>Дашборды</b><br><sub>Несколько именованных областей на одной карте: сеть компаний, люди, денежные потоки</sub></td><td width="33%" valign="top">🏢 <b>Отделы и свои списки</b><br><sub>Люди в отделах, отделы на проектах; офисы, регионы, смены — любые свои списки</sub></td></tr>
-<tr><td width="33%" valign="top">🌳 <b>Иерархия</b><br><sub>Структура, ответственность, редактируемая оргструктура и вид по отделам</sub></td><td width="33%" valign="top">📋 <b>Реестр</b><br><sub>Все объекты и люди списком: доход в месяц, сроки и пробелы</sub></td><td width="33%" valign="top">💱 <b>25 валют</b><br><sub>Ежедневные курсы для любой пары; итоги в вашей основной валюте</sub></td></tr>
-<tr><td width="33%" valign="top">⏰ <b>Сроки</b><br><sub>Продление доменов, отчётность, платежи — напоминания в программе и в Telegram</sub></td><td width="33%" valign="top">📄 <b>PDF и JSON</b><br><sub>Экспорт карты, иерархий и реестров; полная резервная копия и импорт</sub></td><td width="33%" valign="top">🌍 <b>5 языков</b><br><sub>English · Español · Română · Русский · Українська; тёмная и светлая темы</sub></td></tr>
+<tr><td width="33%" valign="top">🗺️ <b>Карта</b><br><sub>Карточки и связи, доли владения, сворачивание веток, мини-карта, ответственные рядом с каждой карточкой</sub></td><td width="33%" valign="top">🔗 <b>Связи</b><br><sub>Договоры, услуги, займы и управление поверх структуры, каждый вид — своим стилем</sub></td><td width="33%" valign="top">🕰️ <b>История карты</b><br><sub>Снимки по дням, сравнение с сегодняшним днём, восстановление в один клик</sub></td></tr>
+<tr><td width="33%" valign="top">🧭 <b>Дашборды</b><br><sub>Несколько именованных областей на одной карте: сеть компаний, люди, денежные потоки</sub></td><td width="33%" valign="top">🏢 <b>Отделы и свои списки</b><br><sub>Люди в отделах, отделы на проектах; офисы, регионы, смены — любые свои списки</sub></td><td width="33%" valign="top">🌳 <b>Иерархия</b><br><sub>Структура, ответственность, редактируемая оргструктура и вид по отделам</sub></td></tr>
+<tr><td width="33%" valign="top">📋 <b>Реестр</b><br><sub>Все объекты и люди списком: доход в месяц, сроки и пробелы</sub></td><td width="33%" valign="top">💱 <b>25 валют</b><br><sub>Ежедневные курсы для любой пары; итоги в вашей основной валюте</sub></td><td width="33%" valign="top">⏰ <b>Сроки</b><br><sub>Продление доменов, отчётность, платежи — напоминания в программе и в Telegram</sub></td></tr>
+<tr><td width="33%" valign="top">📄 <b>PDF и JSON</b><br><sub>Экспорт карты, иерархий и реестров; полная резервная копия и импорт</sub></td><td width="33%" valign="top">🌍 <b>5 языков</b><br><sub>English · Español · Română · Русский · Українська; тёмная и светлая темы</sub></td></tr>
 </table>
 
 ## 🖼️ Скриншоты
 
 <table>
-<tr><td width="50%" valign="top"><img src="screenshots/presentation.png" alt="Режим презентации"><p align="center"><sub><b>Режим презентации</b></sub></p></td><td width="50%" valign="top"><img src="screenshots/checkup.png" alt="Проверка бизнеса"><p align="center"><sub><b>Проверка бизнеса</b></sub></p></td></tr>
-<tr><td width="50%" valign="top"><img src="screenshots/if-leaves.png" alt="Если человек уйдёт"><p align="center"><sub><b>Если человек уйдёт</b></sub></p></td><td width="50%" valign="top"><img src="screenshots/hierarchy.png" alt="Иерархия сотрудников"><p align="center"><sub><b>Иерархия сотрудников</b></sub></p></td></tr>
+<tr><td width="50%" valign="top"><img src="screenshots/collapsed.png" alt="Свёрнутые ветки: видно, что внутри"><p align="center"><sub><b>Свёрнутые ветки: видно, что внутри</b></sub></p></td><td width="50%" valign="top"><img src="screenshots/relations.png" alt="Связи: договор, услуги, заём…"><p align="center"><sub><b>Связи: договор, услуги, заём…</b></sub></p></td></tr>
+<tr><td width="50%" valign="top"><img src="screenshots/history.png" alt="История карты: что изменилось"><p align="center"><sub><b>История карты: что изменилось</b></sub></p></td><td width="50%" valign="top"><img src="screenshots/presentation.png" alt="Режим презентации"><p align="center"><sub><b>Режим презентации</b></sub></p></td></tr>
+<tr><td width="50%" valign="top"><img src="screenshots/checkup.png" alt="Проверка бизнеса"><p align="center"><sub><b>Проверка бизнеса</b></sub></p></td><td width="50%" valign="top"><img src="screenshots/hierarchy.png" alt="Иерархия сотрудников"><p align="center"><sub><b>Иерархия сотрудников</b></sub></p></td></tr>
 </table>
-
-<p align="center"><img src="screenshots/registry.png" alt="Реестр" width="80%"><br><sub><b>Реестр</b></sub></p>
 
 ## ⬇️ Скачать и установить
 
 | Система | Файл |
 |---|---|
-| macOS (Apple Silicon и Intel) | [`HoldingFlow-1.1.0-mac.dmg`](https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.1.0/HoldingFlow-1.1.0-mac.dmg) |
-| Windows 10/11 (64-бит) | [`HoldingFlow-1.1.0-windows-setup.exe`](https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.1.0/HoldingFlow-1.1.0-windows-setup.exe) |
+| macOS (Apple Silicon и Intel) | [`HoldingFlow-1.2.0-mac.dmg`](https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.2.0/HoldingFlow-1.2.0-mac.dmg) |
+| Windows 10/11 (64-бит) | [`HoldingFlow-1.2.0-windows-setup.exe`](https://github.com/ucamcenter/holding-flow-releases/releases/download/v1.2.0/HoldingFlow-1.2.0-windows-setup.exe) |
 
 ### Первый запуск
 
@@ -79,7 +82,7 @@ Holding Flow собирает весь бизнес на одном холсте
 
 ## 💬 Контакты
 
-<p><a href="https://ucam-center.com/ru/programs/"><img src="https://img.shields.io/badge/%D0%A1%D0%B0%D0%B9%D1%82-ucam--center.com-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Сайт"></a> <a href="mailto:support@ucam-center.com"><img src="https://img.shields.io/badge/%D0%9F%D0%BE%D1%87%D1%82%D0%B0-support%40ucam--center.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Почта"></a> <a href="https://www.behance.net/ucamcenter"><img src="https://img.shields.io/badge/Behance-ucamcenter-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a> <a href="https://github.com/ucamcenter"><img src="https://img.shields.io/badge/GitHub-ucamcenter-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></p>
+<p><a href="https://ucam-center.com/ru/programs/"><img src="https://img.shields.io/badge/%D0%A1%D0%B0%D0%B9%D1%82-ucam--center.com-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Сайт"></a> <a href="mailto:support@ucam-center.com"><img src="https://img.shields.io/badge/%D0%9F%D0%BE%D1%87%D1%82%D0%B0-support%40ucam--center.com-EA4335?style=for-the-badge" alt="Почта"></a> <a href="https://www.behance.net/ucamcenter"><img src="https://img.shields.io/badge/Behance-ucamcenter-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a> <a href="https://github.com/ucamcenter"><img src="https://img.shields.io/badge/GitHub-ucamcenter-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></p>
 
 ---
 
